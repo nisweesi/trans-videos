@@ -1,0 +1,8 @@
+*.mp4
+.DS_Store
+.vscode
+.venv
+.python-version
+*.srt
+*.txt
+*.json
