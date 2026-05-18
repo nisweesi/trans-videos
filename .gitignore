@@ -6,3 +6,4 @@
 *.srt
 *.txt
 *.json
+_pycache__
